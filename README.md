@@ -397,9 +397,10 @@ body {
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
-![Products](image.png)
-![Contact](image-1.png)
+![image](https://github.com/PreethiS647/productcompanywebsite/assets/147313372/3a106f26-01ea-47c0-ba5f-b45cbea836e0)
+![image](https://github.com/PreethiS647/productcompanywebsite/assets/147313372/5bfe424a-4207-4b4b-8768-657bf4de61c3)
+![image](https://github.com/PreethiS647/productcompanywebsite/assets/147313372/f5ee122a-5903-42da-bfe3-7225f0917c76)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
